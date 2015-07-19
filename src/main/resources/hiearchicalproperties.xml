@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<jobs>
+	<job>
+		<command>this is a command</command>
+	</job>
+	<job>
+		<command>this is a another command</command>
+		<other></other>
+	</job>
+</jobs>
